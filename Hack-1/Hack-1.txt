@@ -1,1 +1,16 @@
-Create a python program to print names and count of direct & all reports for a given user id in an organization. (Sample data is given in the form of excel Sheet)
+
+# Problem - Credits 10
+Given a dictionary that contains mapping of employee and his manager as a number of (employee, manager) pairs like below.
+
+{ "A", "C" },
+{ "B", "C" },
+{ "C", "F" },
+{ "D", "E" },
+{ "E", "F" },
+{ "F", "F" } 
+
+In this example C is manager of A, 
+C is also manager of B, F is manager 
+of C and so on.
+
+Create a  program to print names and count of direct & all reports for a given employee in an organization. (Sample data is given in the form of excel Sheet)
