@@ -6,12 +6,11 @@ There is no limitation on how many problems you want to solve, the person with m
 
 The skills with judged on:
 
-Logic Implemented
-Processing Time and resources needed on cloud
-Response time on API
-Basic exception handling
-Edge cases
-Over all solution
+1. Logic Implemented and accroach to solve the problem
+2. Processing Time , Response time (API) , resources consumed.
+3. Deployment and packaging 
+4. Code Quality and implementation
+5. Over all solution
 
 Location is Miracle Software Systems Inc.
 6465 Johns Creek Crossing
