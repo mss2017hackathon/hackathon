@@ -1,3 +1,5 @@
+Credits : 10 
+
 Write and execute a sample program by implementing  multi-threading in the language of your choice.
 
 1. The program should be able to print time of execution along with the result (like Name etc)
