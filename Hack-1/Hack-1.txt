@@ -1,5 +1,9 @@
 
-# Problem - Credits 10
+# Problem - Credits 15
+Background - We are looking at an employee - manager tree in an organization and the problem is to find a directect reportees and all reportees with a count under any given manager via an API based approach.
+
+In this approach the data sample data is given to you, we dont recommend to use any DB for the same.
+
 Given a dictionary that contains mapping of employee and his manager as a number of (employee, manager) pairs like below.
 
 { "A", "C" },
@@ -13,4 +17,7 @@ In this example C is manager of A,
 C is also manager of B, F is manager 
 of C and so on.
 
-Create a  program to print names and count of direct & all reports for a given employee in an organization. (Sample data is given in the form of excel Sheet)
+Create a  program/API to print   names and count of direct & all reports for a given employee in an organization. (Sample data is given in the form of excel Sheet)
+
+API - 15 Credites
+Program - 10 credits
