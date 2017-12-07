@@ -1,1 +1,6 @@
-Write a program to implement Python Batch Programming
+Write a program to implement  Batch job the job should be able to continiously do the below:
+
+1. Pull sample data from the DB of your choice relational/NoSQL
+2. Covert the data(records) to json
+3. Write to a json file with file name <Record1.DateTime>
+4. Sample data of the employee data set is attached
