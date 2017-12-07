@@ -1,1 +1,10 @@
-Write and execute a smaple program by implementing Python multi-threading
+Write and execute a sample program by implementing  multi-threading in the language of your choice.
+
+1. The program should be able to print time of execution along with the result (like Name etc)
+2. Should be able to display time at ms level , using parallel execution on different treads, it should be able to print same ms time.
+
+eg:
+
+Thread 1 - Time <2017-10-10 15:30:44:2344>
+Thread 2 - Time <2017-10-10 15:30:44:2344>
+Thread 3 - Time <2017-10-10 15:30:44:2344>
