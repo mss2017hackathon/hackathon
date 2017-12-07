@@ -4,16 +4,13 @@ The Event will last for 4 hours and you can pick and choose a problem , each pro
 
 There is no limitation on how many problems you want to solve, the person with most points will be leading the event.
 
-# The skills with judged on:
 
-1. Logic Implemented and approach to solve the problem
-2. Processing Time , Response time (API) , resources consumed.
-3. Deployment and packaging 
-4. Code Quality and implementation
-5. Over all solution
 
 # Rules 
 
+1. Please refer to the Rules.md for detail on the rules.md
+2. All the Hacks are listed in the repository, there are a total of 5 hacks, every hack is having differnt credits based on complexity of the Hack.
+3. You can attemp all the Hacks based on time and interest.
 
 
 
