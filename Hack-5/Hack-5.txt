@@ -1,1 +1,10 @@
-Create and send a nested json object as a response.
+Total Credits : 15
+Build an API on top of an Employee Data base listed as an attached , which should be able to do the below:
+
+1. Implement the GET/POST/DELETE/CREATE operations on the DB of your choice.
+2. API specification in swagger/OAS (optional) - 5 credits
+3. Should be able to test the API during demo.
+
+
+
+
