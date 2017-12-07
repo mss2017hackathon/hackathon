@@ -4,10 +4,10 @@ The following is a guide of actions to be taken in the case of an accusation tha
 
 Accusations of cheating may include but are not limited to:
 
-- A team using somebody else’s code
-- A team misrepresenting the work they did
-- A team having too many team members
-- A team using code that was written outside the event
+- A team/individual using somebody elseâ€™s code
+- A team/individual misrepresenting the work they did
+- A team/individual having too many team members
+- A team/individual using code that was written outside the event
 
 
 
