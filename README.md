@@ -11,6 +11,7 @@ There is no limitation on how many problems you want to solve, the person with m
 1. Please refer to the Rules.md for detail on the rules.md
 2. All the Hacks are listed in the repository, there are a total of 5 hacks, every hack is having differnt credits based on complexity of the Hack.
 3. You can attemp all the Hacks based on time and interest.
+4. Hacks can be solved in any language 
 
 
 
