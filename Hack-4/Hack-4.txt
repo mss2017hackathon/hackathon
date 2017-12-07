@@ -1,1 +1,7 @@
-Extract data from Database and write it to a file using python
+Credits: 10
+
+Security:
+
+1. Secure the API created in hack 5 or any api of your choice using OAuth/Self signed certs , for OAuth you are free to use any open source provider like AuthO/GoogleAuth etc.
+
+2. Should be able to explain Authorization and Authentication during demo.
