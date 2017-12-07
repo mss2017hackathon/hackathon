@@ -1,4 +1,4 @@
-HACKATHON
+# HACKATHON
 
 The Event will last for 4 hours and you can pick and choose a problem , each problem will have a weight attached to it.
 
